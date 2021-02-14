@@ -3,12 +3,17 @@
     {
       "id": 1,
       "name": "Henrique",
-      "email": "henrique@gmail.com" 
+      "email": "henrique@gmail.com"
     },
     {
       "id": 2,
       "name": "Ana",
-      "email": "ana@company.com" 
+      "email": "ana@company.com"
+    },
+    {
+      "name": "tester",
+      "email": "tester@tester.com",
+      "id": 3
     }
   ]
 }

@@ -5,7 +5,7 @@ import { UsersComponent } from './users.component';
 import { UsersService } from '../../services/users/users.service' 
 import { UsersServiceStub } from '../../services/users/users.service.stub' 
 
-fdescribe('UsersComponent', () => {
+describe('UsersComponent', () => {
   let component: UsersComponent;
   let fixture: ComponentFixture<UsersComponent>;
 
