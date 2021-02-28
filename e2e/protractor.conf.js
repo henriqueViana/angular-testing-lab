@@ -15,6 +15,9 @@ exports.config = {
   capabilities: {
     browserName: 'chrome'
   },
+  suites: {
+    formComponent: './src/components/form/form.e2e-spec.ts'
+  },
   directConnect: true,
   SELENIUM_PROMISE_MANAGER: false,
   baseUrl: 'http://localhost:4200/',

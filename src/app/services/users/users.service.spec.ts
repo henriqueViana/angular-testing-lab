@@ -3,7 +3,7 @@ import { HttpClientTestingModule, HttpTestingController } from '@angular/common/
 import { UsersService } from './users.service';
 import { UsersServiceDummy } from './users.service.dummy'
 
-fdescribe('UsersService', () => {
+describe('UsersService', () => {
   let service: UsersService
   let httpMock: HttpTestingController
   let dummy: UsersServiceDummy
